@@ -4,13 +4,13 @@ We combine AI Expertise with Earth Observation data to develop solutions for you
 
 *TABLE OF CONTENTS*  
 ---
-* [Earth And Space Applications (ESA) group at DFKI](dfki-earth-and-space-applications.github.io/content/index.md#earth-and-space-applications-esa-group-at-dfki)
-   * [Team](dfki-earth-and-space-applications.github.io/content/index.md#team)
-   * [Publications](dfki-earth-and-space-applications.github.io/content/index.md#publications)
-      * [Conferences](dfki-earth-and-space-applications.github.io/content/index.md#conferences)
-      * [Journals](dfki-earth-and-space-applications.github.io/content/index.md#journals)
-   * [Pre-prints](dfki-earth-and-space-applications.github.io/content/index.md#pre-prints)
-   * [Event Participation](dfki-earth-and-space-applications.github.io/content/index.md#event-participation)
+* [Earth And Space Applications (ESA) group at DFKI](content/index.md#earth-and-space-applications-esa-group-at-dfki)
+   * [Team](content/index.md#team)
+   * [Publications](content/index.md#publications)
+      * [Conferences](content/index.md#conferences)
+      * [Journals](content/index.md#journals)
+   * [Pre-prints](content/index.md#pre-prints)
+   * [Event Participation](content/index.md#event-participation)
 
 
 ---

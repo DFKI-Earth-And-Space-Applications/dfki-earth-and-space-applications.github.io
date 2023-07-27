@@ -1,8 +1,8 @@
 # DFKI - Earth And Space Applications (ESA) group
 
-We combine AI Expertise with Earth Observation data to develop solutions for your use cases. We are at the German Research Center for Artificial Intelligence ([DFKI](https://www.dfki.de/en/web) from *Deutsches Forschungszentrum für Künstliche Intelligenz*).
-
 ![DFKI](imgs/dfki.png "DFKI")
+
+We combine AI Expertise with Earth Observation data to develop solutions for your use cases. We are at the German Research Center for Artificial Intelligence ([DFKI](https://www.dfki.de/en/web) from *Deutsches Forschungszentrum für Künstliche Intelligenz*).
 
 [Do you want to check our publication contributions (also planned) and our attendance at events?](./content)
 

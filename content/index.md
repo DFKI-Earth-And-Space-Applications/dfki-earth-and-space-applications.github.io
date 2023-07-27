@@ -6,14 +6,12 @@ We combine AI Expertise with Earth Observation data to develop solutions for you
 
 *Table of contents*  
 ---
-* [Earth And Space Applications (ESA) group at DFKI](#earth-and-space-applications-esa-group-at-dfki)
-   * [Team](#team)
-   * [Publications](#publications)
-      * [Conferences](#conferences)
-      * [Journals](#journals)
-   * [Pre-prints](#pre-prints)
-   * [Event Participation](#event-participation)
-
+* [Team](#team)
+* [Publications](#publications)
+  * [Conferences](#conferences)
+  * [Journals](#journals)
+* [Pre-prints](#pre-prints)
+* [Event Participation](#event-participation)
 
 ---
 

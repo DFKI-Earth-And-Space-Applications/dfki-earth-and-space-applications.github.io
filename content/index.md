@@ -17,7 +17,7 @@ We combine AI Expertise with Earth Observation data to develop solutions for you
 
 |Name| Role| Background | 
 |----|-----|------------|
-| Marlon Nuske | Project Leader | Theoretical Physics, Numerical Simulations |
+| Marlon Nuske | Group Leader | Theoretical Physics, Numerical Simulations |
 | Marcela Charfuelan | Senior Researcher | Signal Processing, Large Scale Data Analytics​|
 |Michaela Vollmer | Senior Researcher | Applied Mathematics, Modelling of Infectious Diseases​| 
 | Diego Arenas| Senior Researcher | Computer Science, Data Science​ |
@@ -35,19 +35,21 @@ We combine AI Expertise with Earth Observation data to develop solutions for you
 <details>
   <summary>Master Students</summary>
 
-|Student | Topic | Supervisor | 
+|Student | Topic | Supervisor |
 |----|-----|------------|
 | Shreyas Bilagi | Self-Supervised for LULC segmentation | Jayanth |
 | Jean-François Nies | - | Diego|
 |Agnivesh Arya | Remote Sensing Fusion for LULC segmentation | Francisco |  
+
 </details>
 
 <details>
   <summary>Former Master Students </summary>
 
-|Name| Topic | Supervisor | 
+|Name| Topic | Supervisor |
 |----|-----|------------|
-| Jayanth Siddamsetty​ | Transfer Learning in Remote Sensing | Marco |  
+| Jayanth Siddamsetty​ | Transfer Learning in Remote Sensing | Marco |
+
 </details>
 
 ---

@@ -35,20 +35,16 @@ We combine AI Expertise with Earth Observation data to develop solutions for you
 <details>
   <summary>Master Students</summary>
 
-|Student | Topic | Supervisor |
-|----|-----|------------|
-| Shreyas Bilagi | Self-Supervised for LULC segmentation | Jayanth |
-| Jean-François Nies | - | Diego|
-|Agnivesh Arya | Remote Sensing Fusion for LULC segmentation | Francisco |  
+* Shreyas Bilagi: Self-Supervised for LULC segmentation (Jayanth)
+* Jean-François Nies (Diego)
+* Agnivesh Arya: Remote Sensing Fusion for LULC segmentation (Francisco)
 
 </details>
 
 <details>
   <summary>Former Master Students </summary>
 
-|Name| Topic | Supervisor |
-|----|-----|------------|
-| Jayanth Siddamsetty​ | Transfer Learning in Remote Sensing | Marco |
+* Jayanth Siddamsetty​: Transfer Learning in Remote Sensing (Marco)
 
 </details>
 
